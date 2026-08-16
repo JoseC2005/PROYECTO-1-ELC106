@@ -25,13 +25,13 @@ Estas funciones podrán evaluarse en versiones posteriores si el MVP demuestra q
 
 Todavía necesitamos descubrir y validar:
 
-¿Los invitados realmente preferirían pedir mediante un kiosco/celular en lugar de hacerlo directamente en la barra?
-¿Cuál es la forma más rápida y cómoda para que un bartender reciba y gestione los pedidos durante un evento?
-¿Cuántos pedidos puede manejar un bartender simultáneamente antes de que se genere un cuello de botella?
-¿Qué información sobre cada cóctel necesitan realmente los invitados antes de realizar un pedido?
-¿Los administradores necesitan cotizaciones personalizadas dentro de la misma herramienta o es suficiente comenzar con un catálogo de servicios?
-¿Qué información de los pedidos del evento sería realmente útil conservar después del evento?
-¿La solución debe funcionar principalmente con celulares, tablets o ambos?
-¿Qué problemas aparecen cuando la conexión a Internet es inestable durante un evento?
-¿Qué tan importante es para el negocio conocer el consumo aproximado de cada cóctel para planificar los insumos?
-¿El flujo propuesto realmente reduce el tiempo de atención y los errores frente al proceso actual?
+* ¿Los invitados realmente preferirían pedir mediante un kiosco/celular en lugar de hacerlo directamente en la barra?
+* ¿Cuál es la forma más rápida y cómoda para que un bartender reciba y gestione los pedidos durante un evento?
+* ¿Cuántos pedidos puede manejar un bartender simultáneamente antes de que se genere un cuello de botella?
+* ¿Qué información sobre cada cóctel necesitan realmente los invitados antes de realizar un pedido?
+* ¿Los administradores necesitan cotizaciones personalizadas dentro de la misma herramienta o es suficiente comenzar con un catálogo de servicios?
+* ¿Qué información de los pedidos del evento sería realmente útil conservar después del evento?
+* ¿La solución debe funcionar principalmente con celulares, tablets o ambos?
+* ¿Qué problemas aparecen cuando la conexión a Internet es inestable durante un evento?
+* ¿Qué tan importante es para el negocio conocer el consumo aproximado de cada cóctel para planificar los insumos?
+* ¿El flujo propuesto realmente reduce el tiempo de atención y los errores frente al proceso actual?
